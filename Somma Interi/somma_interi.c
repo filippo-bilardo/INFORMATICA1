@@ -26,5 +26,8 @@ int main() {
   //Output: 2 Numeri Interi
   ris=n1+n2;
   printf("Il risultato e' %d", ris);
+  
+  //termine del programma
+  return 0;
 }
 
